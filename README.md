@@ -1,1 +1,4 @@
-# Refrencias-CITCA_TecnNM-CENIDET-2026
+# Refrencias-CITCA-TecnNM-CENIDET-2026
+[1] Dzwonkowski, B., Coogan, J., Fournier, S., Lockridge, G., Park, K., & Lee, T. (2020). Compounding impact of severe weather events fuels marine heatwave in the coastal ocean. Nature Communications, 11(1), 4623. https://doi.org/10.1175/BAMS-D-19-0303.1 (2020). <br />
+[2] Ayala-Bocos, A., Reyes-Bonilla, H., Calderón-Aguilera, L. E., Herrero-Perezrul, M. D., & González-Espinosa, P. C. (2016). Proyección de cambios en la temperatura superficial del mar del Golfo de California y efectos sobre la abundancia y distribución de especies arrecifales. Revista Ciencias Marinas y Costeras, 8(1), 29-40.https://doi.org/10.15359/revmar.8-1.2. <br />
+[3] Yáñez-Arancibia, A., Day, J. W., Twilley, R. R., & Day, R. H. (2010). Los manglares frente al Cambio climático¿ tropicalización global del Golfo de México. Impactos del Cambio Climático sobre la Zona Costera. Instituto de Ecología AC (INECOL), Texas Sea Grant Program, Instituto Nacional de Ecología (INE-SEMARNAT), México, 91-126.
